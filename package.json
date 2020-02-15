@@ -1,5 +1,5 @@
 {
-  "name": "chat",
+  "name": "MOOC_node_mod8-Servidor_socket.io_chat_ejemplo",
   "version": "1.0.0",
   "description": "Websocket chat example",
   "scripts": {
