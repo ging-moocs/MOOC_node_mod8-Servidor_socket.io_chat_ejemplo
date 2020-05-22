@@ -2,6 +2,7 @@
 <img  align="right" width="150" style="float: right;" src="https://miriadax.net/miriadax-theme/images/custom/logo_miriadax_new.svg">
 
 <br/><br/><br/>
+
 # Módulo 8: Websockets, protocolo y aplicaciones - Ejemplo de chat web simple con socket.io
 
 ## Instalación
